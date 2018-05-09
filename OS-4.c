@@ -1,7 +1,5 @@
 #include<stdio.h>
 #include<pthread.h>
-#include<stdlib.h>
-
 
 int sum = 0;              //Global sum variable declaration
 int noarr[1000];          //Global number array declaration
